@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd"
+>
+<channel>
+	<title>Educate Yourself: The Future of Learning and EdTech</title>
+	<atom:link href="http://educate_yourself.blubrry.com/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>http://educate_yourself.blubrry.com</link>
+	<description>Imagine you could call up a friend and say &#8220;Meet me at the cafe and give me the latest on the future of learning, higher ed and edtech.&#8221; That&#8217;s our aim with the Educate Yourself podcast. Brought to you by the team behind Treehouse, an online technology school with 75,000+ enrolled students.</description>
+	<lastBuildDate>Mon, 30 Jan 2017 18:00:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=4.7.2</generator>
+<!-- podcast_generator="Blubrry PowerPress/7.0.3" mode="advanced" feedslug="podcast" -->
+	<itunes:summary>Imagine you could call up a friend and say &quot;Meet me at the cafe and give me the latest on the future of learning, higher ed and edtech.&quot; That&#039;s our aim with the Educate Yourself podcast. Brought to you by the team behind Treehouse, an online technology school with 75,000+ enrolled students.</itunes:summary>
+	<itunes:author>Ryan Carson, Londa Quisling, Tommy Morgan</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="http://educate_yourself.blubrry.com/wp-content/uploads/powerpress/390499-552596.png" />
+	<itunes:owner>
+		<itunes:name>Ryan Carson, Londa Quisling, Tommy Morgan</itunes:name>
+		<itunes:email>podcast@teamtreehouse.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>podcast@teamtreehouse.com (Ryan Carson, Londa Quisling, Tommy Morgan)</managingEditor>
+	<copyright>Copyright 2016 Educate Yourself: The Future of Learning and EdTech</copyright>
+	<itunes:subtitle>Educate Yourself: The Future of Learning and EdTech hosted by Ryan Carson, Londa Quisling, Dave McFarland</itunes:subtitle>
+	<image>
+		<title>Educate Yourself: The Future of Learning and EdTech</title>
+		<url>http://assets.blubrry.com/coverart/orig/390499-552596.png</url>
+		<link>http://educate_yourself.blubrry.com</link>
+	</image>
+	<itunes:category text="Education">
+		<itunes:category text="Education Technology" />
+		<itunes:category text="Higher Education" />
+	</itunes:category>
+	<itunes:category text="Technology">
+		<itunes:category text="Tech News" />
+	</itunes:category>
+	<rawvoice:subscribe feed="http://educate_yourself.blubrry.com/feed/podcast/" html="http://educate_yourself.blubrry.com/subscribe-to-podcast/" itunes="https://itunes.apple.com/us/podcast/educate-yourself-future-learning/id1167755585" googleplay="https://play.google.com/music/listen?t=Educate_Yourself:_The_Future_of_Learning_and_EdTech&amp;view=/ps/I35ua2zvvn6dvzs2uvra4wsqo2q" blubrry="https://www.blubrry.com/educate_yourself/" tunein="http://tunein.com/radio/Educate-Yourself-The-Future-of-Learning-and-EdTech-p922330/"></rawvoice:subscribe>
+	<item>
+		<title>#007: Barbara Oakley</title>
+		<link>http://educate_yourself.blubrry.com/2017/01/16/007-barbara-oakley/</link>
+		<pubDate>Mon, 16 Jan 2017 23:19:54 +0000</pubDate>
+		<guid isPermaLink="false">http://educate_yourself.blubrry.com/?p=52</guid>
+		<comments>http://educate_yourself.blubrry.com/2017/01/16/007-barbara-oakley/#respond</comments>
+		<wfw:commentRss>http://educate_yourself.blubrry.com/2017/01/16/007-barbara-oakley/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[edtech]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[impostor syndrome]]></category>
+		<category><![CDATA[language]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[mooc]]></category>
+		<description>Barbara Oakley is a Professor of Engineering, author, and co-creator of the world’s most popular online course, Learning How To Learn. Topics: learning tips, beginners eyes, impostor syndrome, MOOCs, focused vs. diffuse modes, and her new book Mindshift.</description>
+		<content:encoded><![CDATA[<p><span style="font-weight: 400;">Barbara Oakley is a Professor of Engineering, author, and co-creator of the world’s most popular online course, </span><i><span style="font-weight: 400;">Learning How To Learn. </span></i><span style="font-weight: 400;">Topics: learning tips, beginners eyes, impostor syndrome, MOOCs, focused vs. diffuse modes, and her new book </span><i><span style="font-weight: 400;">Mindshift.</span></i></p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/educate_yourself/content.blubrry.com/educate_yourself/_007_Barbara_Oakley.mp3" length="27686036" type="audio/mpeg" />
+		<itunes:subtitle>Barbara Oakley is a Professor of Engineering, author, and co-creator of the world’s most popular online course, Learning How To Learn. Topics: learning tips, beginners eyes, impostor syndrome, MOOCs, focused vs. diffuse modes, and her new book Mindshift.</itunes:subtitle>
+		<itunes:summary>Barbara Oakley is a Professor of Engineering, author, and co-creator of the world’s most popular online course, Learning How To Learn. Topics: learning tips, beginners eyes, impostor syndrome, MOOCs, focused vs. diffuse modes, and her new book Mindshift.</itunes:summary>
+		<itunes:author>Ryan Carson, Londa Quisling, Tommy Morgan</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>38:22</itunes:duration>
+		</item>
+	<item>
+		<title>#006: Rob High</title>
+		<link>http://educate_yourself.blubrry.com/2017/01/02/006-rob-high/</link>
+		<pubDate>Mon, 02 Jan 2017 07:00:59 +0000</pubDate>
+		<guid isPermaLink="false">http://educate_yourself.blubrry.com/?p=47</guid>
+		<comments>http://educate_yourself.blubrry.com/2017/01/02/006-rob-high/#respond</comments>
+		<wfw:commentRss>http://educate_yourself.blubrry.com/2017/01/02/006-rob-high/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Cognitive Computing]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[edtech]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Watson]]></category>
+		<description>We are joined by Rob High, IBM Fellow, Vice President, and CTO of IBM Watson, a cognitive computing platform. Topics include cognitive computing, deep learning, Watson and education, and developer opportunities via Watson as SaaS. Topics: IBM Watson, Cognitive Computing, Deep Learning, Machine Learning, AI, Watson as SaaS.</description>
+		<content:encoded><![CDATA[<p><span style="font-weight: 400;">We are joined by Rob High, IBM Fellow, Vice President, and CTO of IBM Watson, a cognitive computing platform. Topics include cognitive computing, deep learning, Watson and education, and developer opportunities via Watson as SaaS.</span></p>
+<p>Topics: IBM Watson, Cognitive Computing, Deep Learning, Machine Learning, AI, Watson as SaaS.</p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/educate_yourself/content.blubrry.com/educate_yourself/_006_Rob_High.mp3" length="31545544" type="audio/mpeg" />
+		<itunes:subtitle>We are joined by Rob High, IBM Fellow, Vice President, and CTO of IBM Watson, a cognitive computing platform. Topics include cognitive computing, deep learning, Watson and education, and developer opportunities via Watson as SaaS. Topics: IBM Watson,</itunes:subtitle>
+		<itunes:summary>We are joined by Rob High, IBM Fellow, Vice President, and CTO of IBM Watson, a cognitive computing platform. Topics include cognitive computing, deep learning, Watson and education, and developer opportunities via Watson as SaaS. Topics: IBM Watson, Cognitive Computing, Deep Learning, Machine Learning, AI, Watson as SaaS.</itunes:summary>
+		<itunes:author>Ryan Carson, Londa Quisling, Tommy Morgan</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>43:44</itunes:duration>
+		</item>
+	<item>
+		<title>#005: Nir Eyal</title>
+		<link>http://educate_yourself.blubrry.com/2016/12/19/005-nir-eyal/</link>
+		<pubDate>Mon, 19 Dec 2016 07:00:32 +0000</pubDate>
+		<guid isPermaLink="false">http://educate_yourself.blubrry.com/?p=42</guid>
+		<comments>http://educate_yourself.blubrry.com/2016/12/19/005-nir-eyal/#respond</comments>
+		<wfw:commentRss>http://educate_yourself.blubrry.com/2016/12/19/005-nir-eyal/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[edtech]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[habit]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[product design]]></category>
+		<description>We are joined by Nir Eyal, Wall Street Journal bestselling author of Hooked: How to Build Habit Forming Products. He breaks down the four aspects of habit, the difference between habit and routine, and how these principles can be applied to product design and education. Topics: Virtual Reality and Education, Future of Education, Habit-Forming Product … &lt;a href=&quot;http://educate_yourself.blubrry.com/2016/12/19/005-nir-eyal/&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;#005: Nir Eyal&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>We are joined by Nir Eyal, Wall Street Journal bestselling author of Hooked: How to Build Habit Forming Products. He breaks down the four aspects of habit, the difference between habit and routine, and how these principles can be applied to product design and education.</p>
+<p>Topics: Virtual Reality and Education, Future of Education, Habit-Forming Product Design, and Education</p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/educate_yourself/content.blubrry.com/educate_yourself/_005_Nir_Eyal.mp3" length="26322121" type="audio/mpeg" />
+		<itunes:subtitle>We are joined by Nir Eyal, Wall Street Journal bestselling author of Hooked: How to Build Habit Forming Products. He breaks down the four aspects of habit, the difference between habit and routine, and how these principles can be applied to product des...</itunes:subtitle>
+		<itunes:summary>We are joined by Nir Eyal, Wall Street Journal bestselling author of Hooked: How to Build Habit Forming Products. He breaks down the four aspects of habit, the difference between habit and routine, and how these principles can be applied to product design and education. Topics: Virtual Reality and Education, Future of Education, Habit-Forming Product … Continue reading #005: Nir Eyal →</itunes:summary>
+		<itunes:author>Ryan Carson, Londa Quisling, Tommy Morgan</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>36:29</itunes:duration>
+		</item>
+	<item>
+		<title>#004: Robert Greene</title>
+		<link>http://educate_yourself.blubrry.com/2016/12/05/004-robert-greene/</link>
+		<pubDate>Mon, 05 Dec 2016 07:00:39 +0000</pubDate>
+		<guid isPermaLink="false">http://educate_yourself.blubrry.com/?p=38</guid>
+		<comments>http://educate_yourself.blubrry.com/2016/12/05/004-robert-greene/#respond</comments>
+		<wfw:commentRss>http://educate_yourself.blubrry.com/2016/12/05/004-robert-greene/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[edtech]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[mastery]]></category>
+		<category><![CDATA[mentorship]]></category>
+		<description>This week we talk with Robert Greene, author of the New York Times bestsellers The 48 Laws of Power, The Art of Seduction, The 33 Strategies of War, The 50th Law, and Mastery. He shares insights on finding your life’s task, mentorship, and the path to mastery. Topics: Mastery, Mentorship, Finding Your Life’s Task, EdTech news</description>
+		<content:encoded><![CDATA[<p>This week we talk with Robert Greene, author of the New York Times bestsellers The 48 Laws of Power, The Art of Seduction, The 33 Strategies of War, The 50th Law, and Mastery. He shares insights on finding your life&#8217;s task, mentorship, and the path to mastery.</p>
+<p><strong>Topics: </strong><span style="font-weight: 400;">Mastery, Mentorship, Finding Your Life&#8217;s Task, EdTech news</span></p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/educate_yourself/content.blubrry.com/educate_yourself/_004_Robert_Greene.mp3" length="29403824" type="audio/mpeg" />
+		<itunes:subtitle>This week we talk with Robert Greene, author of the New York Times bestsellers The 48 Laws of Power, The Art of Seduction, The 33 Strategies of War, The 50th Law, and Mastery. He shares insights on finding your life’s task, mentorship,</itunes:subtitle>
+		<itunes:summary>This week we talk with Robert Greene, author of the New York Times bestsellers The 48 Laws of Power, The Art of Seduction, The 33 Strategies of War, The 50th Law, and Mastery. He shares insights on finding your life’s task, mentorship, and the path to mastery. Topics: Mastery, Mentorship, Finding Your Life’s Task, EdTech news</itunes:summary>
+		<itunes:author>Ryan Carson, Londa Quisling, Tommy Morgan</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>40:45</itunes:duration>
+		</item>
+	<item>
+		<title>#003: Peter C. Brown</title>
+		<link>http://educate_yourself.blubrry.com/2016/11/21/003-peter-c-brown/</link>
+		<pubDate>Mon, 21 Nov 2016 07:00:06 +0000</pubDate>
+		<guid isPermaLink="false">http://educate_yourself.blubrry.com/?p=26</guid>
+		<comments>http://educate_yourself.blubrry.com/2016/11/21/003-peter-c-brown/#respond</comments>
+		<wfw:commentRss>http://educate_yourself.blubrry.com/2016/11/21/003-peter-c-brown/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[edtech]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[mastery]]></category>
+		<category><![CDATA[mentorship]]></category>
+		<description>This week on Educate Yourself we talk with Peter C. Brown, one of the authors of the bestselling book Make it Stick: The Science of Successful Learning. In this episode we discuss misconceptions about learning and effective learning styles. Topics: Misconceptions About Learning, The Testing Effect, Effective and Ineffective Practice, Learning Styles</description>
+		<content:encoded><![CDATA[<p>This week on Educate Yourself we talk with Peter C. Brown, one of the authors of the bestselling book <em>Make it Stick: The Science of Successful Learning</em>. In this episode we discuss misconceptions about learning and effective learning styles.</p>
+<p><strong>Topics: </strong><span style="font-weight: 400;">Misconceptions About Learning, The Testing Effect, Effective and Ineffective Practice, Learning Styles</span></p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/educate_yourself/content.blubrry.com/educate_yourself/_003_Peter_C_Brown.mp3" length="29347723" type="audio/mpeg" />
+		<itunes:subtitle>This week on Educate Yourself we talk with Peter C. Brown, one of the authors of the bestselling book Make it Stick: The Science of Successful Learning. In this episode we discuss misconceptions about learning and effective learning styles.</itunes:subtitle>
+		<itunes:summary>This week on Educate Yourself we talk with Peter C. Brown, one of the authors of the bestselling book Make it Stick: The Science of Successful Learning. In this episode we discuss misconceptions about learning and effective learning styles. Topics: Misconceptions About Learning, The Testing Effect, Effective and Ineffective Practice, Learning Styles</itunes:summary>
+		<itunes:author>Ryan Carson, Londa Quisling, Tommy Morgan</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>40:41</itunes:duration>
+		</item>
+	<item>
+		<title>#002: Dr. Bror Saxberg</title>
+		<link>http://educate_yourself.blubrry.com/2016/11/07/002-dr-bror-saxberg/</link>
+		<pubDate>Mon, 07 Nov 2016 08:00:12 +0000</pubDate>
+		<guid isPermaLink="false">http://educate_yourself.blubrry.com/?p=23</guid>
+		<comments>http://educate_yourself.blubrry.com/2016/11/07/002-dr-bror-saxberg/#respond</comments>
+		<wfw:commentRss>http://educate_yourself.blubrry.com/2016/11/07/002-dr-bror-saxberg/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[edtech]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[mastery]]></category>
+		<category><![CDATA[mentorship]]></category>
+		<description>This week we invite Dr. Bror Saxberg, Chief Learning Officer at Kaplan, Inc., to discuss Learning Engineers and measuring educational effectiveness. Saxberg has presented talks on education at TEDx, Microsoft’s CEO Summit, and the Education Datapalooza. Topics: General Assembly Outcome Report, Edtech Rapid Cycle Evaluation, Facebook and VR, Learning Engineering, Measuring Educational Effectiveness</description>
+		<content:encoded><![CDATA[<p><span id="docs-internal-guid-15179a1b-e44b-6712-10f3-74ad4f3b0bde">This week we invite Dr. Bror Saxberg, Chief Learning Officer at Kaplan, Inc., to discuss Learning Engineers and measuring educational effectiveness. Saxberg has presented talks on education at TEDx, Microsoft&#8217;s CEO Summit, and the Education Datapalooza.</span></p>
+<p><strong>Topics:</strong> <span style="font-weight: 400;">General Assembly Outcome Report, Edtech Rapid Cycle Evaluation, Facebook and VR, Learning Engineering, Measuring Educational Effectiveness</span></p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/educate_yourself/content.blubrry.com/educate_yourself/_002_Bror_Saxberg.mp3" length="33586521" type="audio/mpeg" />
+		<itunes:subtitle>This week we invite Dr. Bror Saxberg, Chief Learning Officer at Kaplan, Inc., to discuss Learning Engineers and measuring educational effectiveness. Saxberg has presented talks on education at TEDx, Microsoft’s CEO Summit,</itunes:subtitle>
+		<itunes:summary>This week we invite Dr. Bror Saxberg, Chief Learning Officer at Kaplan, Inc., to discuss Learning Engineers and measuring educational effectiveness. Saxberg has presented talks on education at TEDx, Microsoft’s CEO Summit, and the Education Datapalooza. Topics: General Assembly Outcome Report, Edtech Rapid Cycle Evaluation, Facebook and VR, Learning Engineering, Measuring Educational Effectiveness</itunes:summary>
+		<itunes:author>Ryan Carson, Londa Quisling, Tommy Morgan</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>46:34</itunes:duration>
+		</item>
+	<item>
+		<title>#001: Anya Kamenetz</title>
+		<link>http://educate_yourself.blubrry.com/2016/10/24/001-anya-kamenetz/</link>
+		<pubDate>Mon, 24 Oct 2016 23:02:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.blubrry.com/educate_yourself/17869120/</guid>
+		<comments>http://educate_yourself.blubrry.com/2016/10/24/001-anya-kamenetz/#respond</comments>
+		<wfw:commentRss>http://educate_yourself.blubrry.com/2016/10/24/001-anya-kamenetz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[edtech]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[mastery]]></category>
+		<category><![CDATA[mentorship]]></category>
+		<description>This week we invite Anya Kamenetz, lead digital education correspondent for NPR, to discuss the future of for-profit colleges and accreditation. Anya has been a senior writer at Fast Company and contributed to other major outlets like PBS, CNN, and Slate. Topics: College Scorecard, Canvas LMS, Alternative Model for Accreditation, ITT Tech Shut Down, Termination … &lt;a href=&quot;http://educate_yourself.blubrry.com/2016/10/24/001-anya-kamenetz/&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;#001: Anya Kamenetz&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p><span id="docs-internal-guid-15179a1b-e44b-6712-10f3-74ad4f3b0bde">This week we invite Anya Kamenetz, lead digital education correspondent for NPR, to discuss the future of for-profit colleges and accreditation. Anya has been a senior writer at Fast Company and contributed to other major outlets like PBS, CNN, and Slate.</p>
+<p><strong>Topics:</strong> College Scorecard, Canvas LMS, Alternative Model for Accreditation, ITT Tech Shut Down, Termination of ACICS, Red Flint, History of Accreditation, Future of For Profit Colleges</span></p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/educate_yourself/content.blubrry.com/educate_yourself/_001__Anya_Kamenetz.mp3" length="26389909" type="audio/mpeg" />
+		<itunes:subtitle>This week we invite Anya Kamenetz, lead digital education correspondent for NPR, to discuss the future of for-profit colleges and accreditation. Anya has been a senior writer at Fast Company and contributed to other major outlets like PBS, CNN,</itunes:subtitle>
+		<itunes:summary>This week we invite Anya Kamenetz, lead digital education correspondent for NPR, to discuss the future of for-profit colleges and accreditation. Anya has been a senior writer at Fast Company and contributed to other major outlets like PBS, CNN, and Slate.Topics: College Scorecard, Canvas LMS, Alternative Model for Accreditation, ITT Tech Shut Down, Termination of ACICS, Red Flint, History of Accreditation, Future of For Profit Colleges</itunes:summary>
+		<itunes:author>Ryan Carson, Londa Quisling, Tommy Morgan</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item><title>#008: Baker Franke</title><link>http://media.blubrry.com/educate_yourself/p/content.blubrry.com/educate_yourself/_008_Baker_Franke.mp3</link><pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate><description>Baker Franke is the Curriculum Development Manager at code.org, a non-profit dedicated to expanding access to computer science. Topics: Hour of Code, teaching coding to K-12, racial and gender diversity in CS, AP Curriculum.</description><itunes:subtitle>Baker Franke is the Curriculum Development Manager at code.org, a non-profit dedicated to expanding access to computer science. Topics: Hour of Code, teaching coding to K-12, racial and gender diversity in CS, AP Curriculum.</itunes:subtitle><itunes:summary>Baker Franke is the Curriculum Development Manager at code.org, a non-profit dedicated to expanding access to computer science. Topics: Hour of Code, teaching coding to K-12, racial and gender diversity in CS, AP Curriculum.</itunes:summary><itunes:explicit>clean</itunes:explicit><itunes:duration>33:24</itunes:duration></item></channel>
+</rss>
